@@ -134,7 +134,7 @@ owner 为智能合约的管理人，我们更改为自己的地址即可
 
 在一切准备就绪后，接下来，我们执行 lock 函数
 
-![](http://ww1.sinaimg.cn/large/006p1mCOgy1g2v14lkuobj31gn0ol77y.jpg)
+![](http://ww1.sinaimg.cn/large/006p1mCOgy1g2v1byujpnj31gn0ol77y.jpg)
 
 点击运行之后，会调用 Cyano进行签名。执行成功后，可以在 smartx 左侧的 Logs中查看到结果和交易 hash
 
@@ -152,11 +152,7 @@ owner 为智能合约的管理人，我们更改为自己的地址即可
 
 
 此外，需要切换Cyano网络到侧链上，例，我们刚刚像侧链id为1的转账，Cyano中切换为138.91.6.193的侧链网络
-
-![](http://ww1.sinaimg.cn/large/006p1mCOgy1g2v15bq5kzj30pw0ckmxv.jpg)
-
-
-
+![](https://i.loli.net/2019/05/09/5cd3c5df56c66.png)
 
 可以查看到已经到账的 OEP4 token
 
